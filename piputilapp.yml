@@ -209,5 +209,5 @@ jhipster:
 # ===================================================================
 
 application:
-  config:
-    hello: hello from pip util
+  medicare:
+    url: hello from pip util
