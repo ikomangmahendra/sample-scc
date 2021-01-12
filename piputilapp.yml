@@ -106,7 +106,7 @@ management:
 
 spring:
   application:
-    name: piputilapp
+    name: pipUtilApp
   jmx:
     enabled: false
   data:
@@ -208,4 +208,6 @@ jhipster:
 # https://www.jhipster.tech/common-application-properties/
 # ===================================================================
 
-# application:
+application:
+  config:
+    hello: hello from pip util
